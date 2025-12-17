@@ -81,7 +81,7 @@ curl -X POST \
   "duration_seconds": 2.13,
   "num_codebooks": 8,
   "axes": ["codebook", "time"],
-  "latency_ms": 41.7,
+  "latency_ms": 118.24,
   "device": "cuda:0",
   "model_id": "kyutai/mimi"
 }
